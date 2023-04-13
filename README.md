@@ -1,7 +1,5 @@
 # food_delivery_app_getx
-
-![food 1](https://user-images.githubusercontent.com/121868551/230708681-dc620892-9626-472d-8867-d51dedb0057d.jpg)
-![WhatsApp Image 2023-04-08 at 12 36 53 PM (1)](https://user-images.githubusercontent.com/121868551/230708724-76183a8f-c04f-455f-80e9-d1bbc3c8b1fa.jpeg)
-![WhatsApp Image 2023-04-08 at 12 36 53 PM (2)](https://user-images.githubusercontent.com/121868551/230708727-17858a51-1187-4ebb-b4a3-a69050682638.jpeg)
-![WhatsApp Image 2023-04-08 at 12 36 54 PM (1)](https://user-images.githubusercontent.com/121868551/230708730-144ea450-6719-4803-97f4-48cf2839b791.jpeg)
-![WhatsApp Image 2023-04-08 at 12 36 53 PM (3)](https://user-images.githubusercontent.com/121868551/230708759-9ea8b6bd-d568-487d-b34b-8e02c9a7b903.jpeg)
+![s1](https://user-images.githubusercontent.com/121868551/231668911-647a87e1-a845-4009-88df-1e8![s2](https://user-images.githubusercontent.com/121868551/231668944-b6183bf9-cbc1-4f57-a88e-92c8c6980ec3.png)
+7c4697461.png)
+![s3](https://user-images.githubusercontent.com/121868551/231668953-27958188-8b03-4e85-8f6d-0ee028fb3730.png)
+![s4](https://user-images.githubusercontent.com/121868551/231668959-8983fd86-df4d-4215-9e8c-46610bf9033e.png)
